@@ -1,6 +1,7 @@
 <div align="center">
-  ![oomi](https://github.com/choomi1217/choomi1217/assets/52321403/89eb14f2-8dd1-473d-9c19-b76cd9a337c8)
+  
 </div>
+
 
 <!--
 **choomi1217/choomi1217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 <div align="center">
-  ### Hello World
+  ![oomi](https://github.com/choomi1217/choomi1217/assets/52321403/89eb14f2-8dd1-473d-9c19-b76cd9a337c8)
 </div>
 
 <!--

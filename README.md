@@ -1,4 +1,4 @@
-# Hello World! ✋
+### Hello World! 🙂
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choomi1217&exclude_repo=choomi1217.github.io&hide=html,css&hide_progress=true)]()
 

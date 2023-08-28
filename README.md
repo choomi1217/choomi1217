@@ -1,6 +1,6 @@
 ### Hello World! 🙂
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choomi1217&exclude_repo=choomi1217.github.io&hide=html,css&hide_progress=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choomi1217&layout=compact&langs_count=8&exclude_repo=choomi1217.github.io&hide=html,css&hide_progress=true)]()
 
 ### 💖 My Blog <br/>
 <a href="https://choomi1217.github.io/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=for-the-badge&logo=GitHub%20Sponsors&logoColor=white"/></a>
